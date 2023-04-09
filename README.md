@@ -34,8 +34,8 @@ Save the final data set into the file
 
 ## PROGRAM
 ```
-Name : Divya Bharathi K
-Register Number : 212220220011
+Name : Deepa.S
+Register Number : 212220220008
 
 import pandas as pd
 import numpy as np
